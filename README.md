@@ -37,6 +37,7 @@ A lightweight, modular command-line and web-based tool for digital forensic inve
    This project is licensed under the MIT License.
 ## Contact
    Created by Upkirat Singh Dhillon - upkirats05@gmail.com
+   
 ---
 
 ### requirements.txt
